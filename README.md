@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Henry Stickman Fleeing The Complex Web
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Henry%20Stickman%20Fleeing%20T&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Henry Stickman Fleeing The Complex Web Header Banner" />
+
+  <h1>🚀 Henry Stickman Fleeing The Complex Web</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/henry-stickman-fleeing-the-complex-web"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Henry Stickman Fleeing The Complex Web** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,124 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Henry Stickman Fleeing The Complex Web - Play Online for Free
-
-## Overview
-Play Henry Stickman Fleeing The Complex Web online for free. Unblocked and available on all devices. Experience the best Henry Stickman Fleeing The Complex Web gameplay now!
-
-### Game Details & Guide
-Getting Started with Henry Stickman Fleeing The Complex Web
-
-
-
-This browser game, developed by HenryStep, challenges players to navigate a complex web of interconnected rooms while avoiding deadly traps and enemies.
-
-
-
-Game Overview
-
-
-HenryStickmanFleeingTheComplexWeb is a HTML5-based browser game that requires quick reflexes and strategic thinking to survive. The game features a unique blend of platformer elements, puzzle-solving, and survival mechanics.
-
-
-
-How to Play
-
-
-
-Controls:
-
-
-
-    
-
-Movement:
- Use the left and right arrow keys to move Henry through the web.
-
-    
-
-Jumping:
- Press the space bar to jump over obstacles or enemies.
-
-    
-
-Cooking and Crafting:
- Use the 'E' key to open the cooking menu, which allows you to cook items and upgrade your equipment.
-
-    
-
-Combat:
- Use the 'C' key to attack enemies or the 'X' key to defend against them.
-
-
-
-
-
-The objective of the game is to escape the complex web by navigating through its various rooms, collecting resources, and avoiding deadly traps. As you progress, new challenges and obstacles will become available, requiring you to adapt your strategy and reflexes.
-
-
-
-Tips and Tricks for Success
-
-
-
-
-Master the Jumping Mechanics:
- Timing is key in HenryStickmanFleeingTheComplexWeb. Practice jumping over obstacles or enemies to avoid taking damage.
-
-
-
-
-Cook Your Way Out:
- Use cooking items to upgrade your equipment, such as the health-restoring 'Peanut Butter' and the fire-protection 'Cheeto Dust'. This will give you an edge in combat and exploration.
-
-
-
-
-Explore New Areas:
- As you progress through the game, new areas and rooms will become available. Take advantage of these to collect resources, upgrade your equipment, or escape from danger.
-
-
-
-Why You Should Play It
-
-
-
-
-Improve Your Reflexes and Problem-Solving Skills:
- The game requires quick reflexes and strategic thinking to survive. Mastering these skills will improve your overall gaming experience.
-
-
-
-
-Relax and Have Fun:
- HenryStickmanFleeingTheComplexWeb is a challenging but enjoyable game that can be played at your own pace. Take time to explore, cook, and upgrade your equipment – it's all part of the fun!
-
-
-
-
-
-
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle), HTML5
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
